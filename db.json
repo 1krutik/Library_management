@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "id": "215b",
+      "title": "Pride and Prejudice",
+      "author": "krutik",
+      "genre": "2020",
+      "publicationDate": "2024-10-08",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6xoUxQY12W3dqwW41Atel_RNB8IJBDeq4dg&https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd1kRj1nnXtv-dZUhSj2n_xUDvtQFf5MzNXXcZouIU1FU_hY4As"
+    },
+    {
+      "id": "1008",
+      "title": "To Kill a Mockingbird",
+      "author": "svcsvc",
+      "genre": "vcjvch",
+      "publicationDate": "2024-10-04",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR819TtvIV0JJ5_Wzzfcnk3y2eXfPpamZmdbrg5ofv0Ydafpw_f"
+    },
+    {
+      "id": "9e83",
+      "title": "The Great Gatsby",
+      "author": "F.Scott",
+      "genre": "Obbession",
+      "publicationDate": "2024-10-02",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHStvBj1SKqlAIAKxoEZMotILtKLh8NlsosDsDtqKc1hlkEvFS"
+    }
+  ]
+}
